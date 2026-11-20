@@ -1,4 +1,5 @@
 # ClearLedger — Personal Finance Tracker
+**Live Demo:** https://clearledger-finance-tracker.vercel.app
 
 A responsive personal finance tracker built with React, TypeScript, Tailwind CSS, and Vite. Track monthly cash flow, manage category budgets, monitor account balances, post recurring bills, and export CSV/JSON backups directly from your browser.
 
